@@ -1,0 +1,1 @@
+SELECT usuario FROM usuarios WHERE nivel IN(1, 2, 3)

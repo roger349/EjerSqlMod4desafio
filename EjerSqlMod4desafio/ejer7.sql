@@ -1,0 +1,1 @@
+SELECT SUM(saldo) FROM usuarios WHERE compania = 'NEXTEL'

@@ -1,0 +1,1 @@
+SELECT AVG(saldo) FROM usuarios WHERE marca = 'NOKIA'

@@ -1,0 +1,1 @@
+SELECT usuario, telefono FROM usuarios WHERE compania = 'IUSACELL';

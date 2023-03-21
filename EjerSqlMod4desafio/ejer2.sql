@@ -1,0 +1,1 @@
+SELECT max(saldo) FROM usuarios where sexo='M'

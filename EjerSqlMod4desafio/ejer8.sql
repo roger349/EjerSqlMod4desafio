@@ -1,0 +1,1 @@
+SELECT compania, COUNT(*) FROM usuarios GROUP BY compania

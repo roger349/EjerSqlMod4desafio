@@ -1,0 +1,1 @@
+SELECT nombre, telefono FROM usuarios WHERE marca IN('LG', 'SAMSUNG', 'MOTOROLA')

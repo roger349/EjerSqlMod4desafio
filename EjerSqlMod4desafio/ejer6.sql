@@ -1,0 +1,1 @@
+SELECT telefono FROM usuarios WHERE saldo <= 300
